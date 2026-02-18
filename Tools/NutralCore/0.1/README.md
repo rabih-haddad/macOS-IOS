@@ -17,10 +17,10 @@ NutralCore is a modern macOS screensaver that visualizes AI training simulations
 
 ## Installation
 
-1. Download `NutralCore.saver.zip` from the assets below
+1. Download [NutralCore-0.1.saver.zip](https://raw.githubusercontent.com/yourusername/macOS-IOS/main/Tools/NutralCore/0.1/NutralCore-0.1.saver.zip)
 2. Unzip → double-click `NutralCore.saver`
 3. Click **Install** in the dialog
 4. Open **System Settings → Wallpaper → Screen Saver**
-5. Select **NutralCore** (may be under "Other")
+5. Select **NutralCore**
 6. Click **Options…** to choose your preferred simulator
 
