@@ -24,3 +24,13 @@ NutralCore is a modern macOS screensaver that visualizes AI training simulations
 5. Select **NutralCore**
 6. Click **Options…** to choose your preferred simulator
 
+
+<img src="Screenshots/screenshot1.png" alt="Screenshot1" style="display: block; margin: 0 auto;">
+
+ ##
+<div style="display: flex; justify-content: space-between;">
+  <img src="Images/VMwhiz_Screenshot_005.png" alt="VMwhiz" width="40%">
+  <img src="Images/VMwhiz_Screenshot_007.png" alt="VMwhiz" width="40%">
+</div>
+
+##
