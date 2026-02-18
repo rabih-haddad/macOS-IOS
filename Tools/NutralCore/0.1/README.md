@@ -24,6 +24,3 @@ NutralCore is a modern macOS screensaver that visualizes AI training simulations
 5. Select **NutralCore** (may be under "Other")
 6. Click **Options…** to choose your preferred simulator
 
-Quick full-screen test:
-```bash
-open -b com.apple.ScreenSaver.Engine
