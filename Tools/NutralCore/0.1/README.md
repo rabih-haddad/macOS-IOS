@@ -1,6 +1,6 @@
 <img src="Screenshots/icon.png" alt="NutralCore" style="display: block; margin: 0 auto;">
 
-# NutralCore v0.1
+# NutralCore v0.1 Screensaver
 
 **Release date:** February 18, 2026  
 **Compatible with:** macOS 12.7.6 Monterey and later.
@@ -24,13 +24,17 @@ NutralCore is a modern macOS screensaver that visualizes AI training simulations
 5. Select **NutralCore**
 6. Click **Options…** to choose your preferred simulator
 
-##
+## Screenshots
 
-<img src="Screenshots/Screenshot 1.png" alt="Screenshot1" width="40%">   ##  <img src="Screenshots/Screenshot 2.png" alt="Screenshot1" width="45%">
+<img src="Screenshots/Screenshot 1.png" alt="Screenshot1" width="40%"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="Screenshots/Screenshot 2.png" alt="Screenshot1" width="47%">
 
  ##
 <div style="display: flex; justify-content: space-between;">
- <img src="Screenshots/Screenshot 3.png" alt="Screenshot1" width="40%"> <img src="Screenshots/Screenshot 4.png" alt="Screenshot1" width="40%">
+ <img src="Screenshots/Screenshot 3.png" alt="Screenshot1" width="40%"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="Screenshots/Screenshot 4.png" alt="Screenshot1" width="40%">
 </div>
 
 ##
+<!-- at the end of <body> -->
+<div style="position: absolute; bottom: 10px;">
+    © 2026 Rabih HADDAD • NutralCore Screensaver
+</div>
