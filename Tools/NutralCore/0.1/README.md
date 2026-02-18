@@ -1,4 +1,4 @@
-<img src="Tools/NutralCore/0.1/Screenshots/icon.png" alt="NutralCore" style="display: block; margin: 0 auto;">
+<img src="Screenshots/icon.png" alt="NutralCore" style="display: block; margin: 0 auto;">
 
 # NutralCore v0.1
 
