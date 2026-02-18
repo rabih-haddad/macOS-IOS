@@ -1,6 +1,6 @@
 <img src="Screenshots/icon.png" alt="NutralCore" style="display: block; margin: 0 auto;">
 
-# NutralCore v0.1 Screensaver
+# NutralCore v0.1
 
 **Release date:** February 18, 2026  
 **Compatible with:** macOS 12.7.6 Monterey and later.
