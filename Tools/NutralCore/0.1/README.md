@@ -26,12 +26,11 @@ NutralCore is a modern macOS screensaver that visualizes AI training simulations
 
 ##
 
-<img src="Screenshots/Screenshot 1.png" alt="Screenshot1" width="40%"> <img src="Screenshots/Screenshot 2.png" alt="Screenshot1" width="45%">
+<img src="Screenshots/Screenshot 1.png" alt="Screenshot1" width="40%">   ##  <img src="Screenshots/Screenshot 2.png" alt="Screenshot1" width="45%">
 
  ##
 <div style="display: flex; justify-content: space-between;">
-  <img src="Images/VMwhiz_Screenshot_005.png" alt="VMwhiz" width="40%">
-  <img src="Images/VMwhiz_Screenshot_007.png" alt="VMwhiz" width="40%">
+ <img src="Screenshots/Screenshot 3.png" alt="Screenshot1" width="40%"> <img src="Screenshots/Screenshot 4.png" alt="Screenshot1" width="40%">
 </div>
 
 ##
